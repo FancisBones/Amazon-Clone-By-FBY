@@ -1,6 +1,6 @@
 # Amazon Clone Project
 This is a JavaScript-based web application that replicates core Amazon shopping functionality. The project includes product browsing, cart management, checkout process, order tracking, and a complete order history system.
-
+### video demo <https://youtu.be/f-DxGvCb73o>
 ## Features
 
 ### Product Browsing (amazon.html)
